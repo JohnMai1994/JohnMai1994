@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Facility Settlement Company. Hard, but i learn a lot from here!
+- 🌱 I’m currently learning React & Storybook development
+- 📫 How to reach me: mjd64929@icloud.com
+- ⚡ Fun fact: I know a very cool thing! whistle like a bird~
 <!--
 **JohnMai1994/JohnMai1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
